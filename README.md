@@ -1,4 +1,4 @@
-#Communication Code CMD (CCC)
+#  CMD Communications Code (CCC) 
 #### Explainer video: [<https://www.youtube.com/watch?v=U5Zet_5HT0E>]
 
 ---
