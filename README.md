@@ -11,7 +11,7 @@ The CMD Communications Code (CCC) project is a command-line chat application des
 #### **Features**:
 ##### **1. Communication between server and client**:
 - A server program ('server.c') that listens for incoming connections from clients.
-- Client programs (`client.c' or `user82.c') that communicate with the server and exchange messages.
+- Client programs (`client.c') that communicate with the server and exchange messages.
 
 ##### **2. Real-time messaging**:
 - Two-way messaging between server and clients with minimal delay.
@@ -39,7 +39,7 @@ The CMD Communications Code (CCC) project is a command-line chat application des
 
 #### **Code Components**:
 - **Server code (`server.c`)**: Set up the TCP server, handle client connections, and manage message broadcasts.
-- **Client code ('client.c', 'user82.c')**: Connects to the server and allows users to send and receive messages.
+- **Client code ('client.c')**: Connects to the server and allows users to send and receive messages.
 - **Python automation script (`automate.py`)**: Deletes old binary files, compiles 'server.c' and 'client.c' for quick iteration.
 
 ---
