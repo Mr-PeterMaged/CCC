@@ -1,6 +1,8 @@
 #  CMD Communications Code (CCC) 
 #### Explainer video: [<https://www.youtube.com/watch?v=efhDcUB6uKg>]
 
+https://github.com/Mr-PeterMaged/CCC/issues/1#issue-2709512175
+
 ---
 
 #### **Description**:
