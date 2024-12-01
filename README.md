@@ -1,5 +1,5 @@
 #  CMD Communications Code (CCC) 
-#### Explainer video: [<>]
+#### Explainer video: [<https://www.youtube.com/watch?v=efhDcUB6uKg>]
 
 ---
 
