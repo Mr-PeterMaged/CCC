@@ -1,7 +1,7 @@
 #  CMD Communications Code (CCC) 
 #### Explainer video: [<https://www.youtube.com/watch?v=efhDcUB6uKg>]
 
-https://github.com/Mr-PeterMaged/CCC/issues/1#issue-2709512175
+![My Video](https://github.com/user-attachments/assets/eca29f1d-89fa-40b9-a565-9b6e0894f9cf)
 
 ---
 
